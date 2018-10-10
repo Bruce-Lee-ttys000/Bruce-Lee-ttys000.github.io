@@ -1,0 +1,22 @@
+# jemdoc: menu{MENU}{projects.html}, nofooter  
+== Projects
+
+== Electric Vehicle Sharing System Design
+~~~
+{}{img_left}{pic/project1.png}{alt text}{130}{130}
+We propose a model of free-floating EV sharing system design in the continuous space. This model determines the optimal dispatching policy, battery replacing policy, rebalancing operations and the corresponding EV  charge station density to minimize the comprehensive system cost when a fleet with mixed battery state of health (SoH) is considered. We further propose a decoupled formulation that can be solved analytically. /Submitted to [http://www.tristan2019.org TRISTAN]/
+~~~
+
+== Other Write-ups
+
+== Optimizing Multi-core CPU Scheduling
+~~~
+{}{img_left}{pic/project2.png}{alt text}{130}{130}
+The Operating System(OS) is an important piece of software present in virtually all computer systems, which manages computer hardware and softwares and provides common resources for computer programs. We present a MIQP model in this report to solve processes scheduling problem in multicore CPU and further propose a more general formulation using rubust optimization when the processes have random arrival time and duration. [https://nbviewer.jupyter.org/github/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[View\]] [https://github.com/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[Link\]]
+~~~
+
+== Maritime & Logistics Hackathon 2017 
+~~~
+{}{img_left}{pic/maritimeweek.png}{alt text}{130}{130}
+The Hackathon is one of the feature events in the Hong Kong Maritime Week. Participants were given a set of carrier service network and vessel sailing schedule data for completing the work within 40 hours.[doc/hackathon2017.pdf \[View\]]
+~~~
