@@ -1,7 +1,7 @@
 # jemdoc: menu{MENU}{projects.html}, nofooter  
 == Projects
 
-== Electric Vehicle Sharing System Design
+== A Continuous Model for Electric Vehicle Sharing with Battery Degradation
 ~~~
 {}{img_left}{pic/project1.png}{alt text}{130}{130}
 We propose a model of free-floating EV sharing system design in the continuous space. This model determines the optimal dispatching policy, battery replacing policy, rebalancing operations and the corresponding EV  charge station density to minimize the comprehensive system cost when a fleet with mixed battery state of health (SoH) is considered. We further propose a decoupled formulation that can be solved analytically. /Submitted to [http://www.tristan2019.org TRISTAN]/
