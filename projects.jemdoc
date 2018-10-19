@@ -15,6 +15,12 @@ We propose a model of free-floating EV sharing system design in the continuous s
 The Operating System(OS) is an important piece of software present in virtually all computer systems, which manages computer hardware and softwares and provides common resources for computer programs. We present a MIQP model in this report to solve processes scheduling problem in multicore CPU and further propose a more general formulation using rubust optimization when the processes have random arrival time and duration. [https://nbviewer.jupyter.org/github/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[View\]] [https://github.com/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[Link\]]
 ~~~
 
+=== A Stochastic Multi-Agent Transportation Network Model for Evacuation Planning
+~~~
+{}{img_left}{pic/evacuation.jpg}{alt text}{130}{130}
+Efficient evacuation planning gains more and more popularity in researchers because of the frequently happened disaster recently. We provide a comprehensive classification of existing works regarding model approaches and formulations. In addition, a transportation network model of evacuation planning with stochastic components is introduced. [doc/Evacuation_Planning.pdf \[View\]]
+~~~
+
 == Invited Talks
 Smart Airport - Technovation Conference & Exhibition 2018 [https://www.hkairport-technovation.com/en/ \[Link\]]\n
 
