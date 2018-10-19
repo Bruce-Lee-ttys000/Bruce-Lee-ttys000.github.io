@@ -1,9 +1,7 @@
 menu
-    Home                [index.html]
+    Home                	[index.html]
     Projects			[projects.html]
-	Honors and Awards	[awards.html]
+    Honors and Awards		[awards.html]
     Activities			[activities.html]
     Teaching			[teaching.html]
-	
-usefull links
-   Jemdoc   		[http://jemdoc.jaboc.net/]
+    Miscellaneous               [miscellaneous.html] 
