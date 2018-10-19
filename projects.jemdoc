@@ -1,22 +1,33 @@
 # jemdoc: menu{MENU}{projects.html}, nofooter  
 == Projects
 
-== A Continuous Model for Electric Vehicle Sharing with Battery Degradation
+== Research
+=== A Continuous Model for Electric Vehicle Sharing with Battery Degradation
 ~~~
 {}{img_left}{pic/project1.png}{alt text}{130}{130}
 We propose a model of free-floating EV sharing system design in the continuous space. This model determines the optimal dispatching policy, battery replacing policy, rebalancing operations and the corresponding EV  charge station density to minimize the comprehensive system cost when a fleet with mixed battery state of health (SoH) is considered. We further propose a decoupled formulation that can be solved analytically. /Submitted to [http://www.tristan2019.org TRISTAN]/
 ~~~
 
 == Other Write-ups
-
-== Optimizing Multi-core CPU Scheduling
+=== Optimizing Multi-core CPU Scheduling
 ~~~
 {}{img_left}{pic/project2.png}{alt text}{130}{130}
 The Operating System(OS) is an important piece of software present in virtually all computer systems, which manages computer hardware and softwares and provides common resources for computer programs. We present a MIQP model in this report to solve processes scheduling problem in multicore CPU and further propose a more general formulation using rubust optimization when the processes have random arrival time and duration. [https://nbviewer.jupyter.org/github/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[View\]] [https://github.com/tony-wj/CPU_schedule_optimization/blob/master/course_project.ipynb \[Link\]]
 ~~~
 
-== Maritime & Logistics Hackathon 2017 
+== Invited Talks
+Smart Airport - Technovation Conference & Exhibition 2018 [https://www.hkairport-technovation.com/en/ \[Link\]]\n
+
+== Cases
+=== Smart City Datathon 2018 
+~~~
+{}{img_left}{pic/datathon.png}{alt text}{130}{130}
+Selected teams will be given a set of air flight schedule and actual aircraft movement data, together with the open data published by HKSAR Government, and 36 hours to develop innovative models, services or systems with a particular focus that can bring values to the cities.[doc/datathon2018.pdf \[View\]]
+~~~
+
+=== Maritime & Logistics Hackathon 2017 
 ~~~
 {}{img_left}{pic/maritimeweek.png}{alt text}{130}{130}
 The Hackathon is one of the feature events in the Hong Kong Maritime Week. Participants were given a set of carrier service network and vessel sailing schedule data for completing the work within 40 hours.[doc/hackathon2017.pdf \[View\]]
 ~~~
+
