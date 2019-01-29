@@ -11,7 +11,7 @@ We investigate the revenue management in systems with reusable resources (e.g. s
 === A Continuous Model for Electric Vehicle Sharing with Battery Degradation
 ~~~
 {}{img_left}{pic/project1.png}{alt text}{130}{130}
-We propose an integrated model for EV sharing systems design in a continuous space. This model aims to optimize the system design considering the joint impact of battery charging and degradation, hence provides decision support on the charge station deployment, fleet balancing operations, and the battery charging and replacing policy. An analytical solution is developed using optimal transport theory, which provides fruitful managerial insights. /Submitted to [http://www.tristan2019.org TRISTAN]/ (with [https://fengju.engineering.asu.edu Feng Ju] and [https://sites.google.com/site/xinwang072017/home Xin Wang])\n
+We propose an integrated model for EV sharing systems design in a continuous space. This model aims to optimize the system design considering the joint impact of battery charging and degradation, hence provides decision support on the charge station deployment, fleet balancing operations, and the battery charging and replacing policy. An analytical solution is developed using optimal transport theory, which provides fruitful managerial insights. /The Tenth Triennial Symposium on Transportation Analysis [http://www.tristan2019.org (TRISTAN)]/ (with [https://fengju.engineering.asu.edu Feng Ju] and [https://sites.google.com/site/xinwang072017/home Xin Wang])\n
 ~~~
 
 == Other Write-ups
