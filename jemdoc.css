@@ -1,4 +1,7 @@
 /* Default css file for jemdoc. */
+.red {
+    color: red;
+}
 
 table#tlayout {
     border: none;
