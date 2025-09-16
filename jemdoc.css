@@ -1,5 +1,7 @@
 /* Default css file for jemdoc. */
 
+.text-red { color:red; }
+
 table#tlayout {
     border: none;
     border-collapse: separate;
