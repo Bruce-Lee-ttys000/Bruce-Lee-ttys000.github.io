@@ -34,11 +34,12 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="fd284236-1e7d-44dc-a5c1-37ec64bb9ce2" name="更改" comment="" />
@@ -54,6 +55,7 @@
       <workItem from="1758009741124" duration="625000" />
       <workItem from="1758010665068" duration="586000" />
       <workItem from="1758011339129" duration="196000" />
+      <workItem from="1758043229854" duration="1417000" />
     </task>
     <servers />
   </component>
