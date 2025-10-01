@@ -133,9 +133,7 @@ Nanjing, Jiangsu, China \n
 == Visitors
 ~~~
 {}{raw}
-<script type="text/javascript" id="clstr_globe"
-  src="//clustrmaps.com/globe.js?d=gIxAhj6HpNnaxZUUb4CIbrP92jC8NC6QSqKvtlXxntE&w=300&h=200">
-</script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=320&t=m&d=gIxAhj6HpNnaxZUUb4CIbrP92jC8NC6QSqKvtlXxntE'></script>
 ~~~
 
 
