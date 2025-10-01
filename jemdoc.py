@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# -*- coding: utf-8 -*-
 
 """jemdoc version 0.7.3, 2012-11-27."""
 
@@ -359,7 +360,7 @@ def insertmenuitems(f, mname, current, prefix):
 
     else: # menu category.
       hb(f.outf, f.conf['menucategory'], br(l, f))
-
+      
   m.close()
 
 def out(f, s):
