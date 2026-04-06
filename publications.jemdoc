@@ -3,29 +3,29 @@
 
 * indicates equal contributions
 
-1. *Li S*, Wu Q, Wang R. Dynamic Discrete Topology Design and Routing for Satellite-Terrestrial Integrated Networks. IEEE/ACM Transactions on Networking, 2024. {{<span class="text-red">(CCF-A, 计算机网络类顶刊)</span>}}
+1. *Shuyang Li*, Qiang Wu, Ran Wang. Dynamic Discrete Topology Design and Routing for Satellite-Terrestrial Integrated Networks. IEEE/ACM Transactions on Networking, 2024. {{<span class="text-red">(CCF-A)</span>}}
 
-2. *Li S*, Wu Q, Wang R, et al. Efficient Multipath Differential Routing and Traffic Scheduling in Ultra-Dense LEO Satellite Networks: A DRL with Stackelberg Game Approach. IEEE Transactions on Mobile Computing, 2025. {{<span class="text-red">(CCF-A, 中科院一区, IF=9.2)</span>}}
+2. *Shuyang Li*, Qiang Wu, Ran Wang, et al. Efficient Multipath Differential Routing and Traffic Scheduling in Ultra-Dense LEO Satellite Networks: A DRL with Stackelberg Game Approach. IEEE Transactions on Mobile Computing, 2025. {{<span class="text-red">(CCF-A, 中科院一区, IF=9.2)</span>}}
 
-3. *Li S*, Wu Q, Wang R, et al. Efficient Packet Routing for Large-Scale LEO Satellite Networks: A Pareto-Optimal MARL Approach with Queueing Theory. IEEE Internet of Things Journal, 2025. {{<span class="text-red">(中科院一区, IF=8.9)</span>}}
+3. *Shuyang Li*, Qiang Wu, Ran Wang, et al. Efficient Packet Routing for Large-Scale LEO Satellite Networks: A Pareto-Optimal MARL Approach with Queueing Theory. IEEE Internet of Things Journal, 2025. {{<span class="text-red">(中科院一区, IF=8.9)</span>}}
 
-4. *Li S*, Wu Q, Wang R, et al. Towards Networking and Routing in 6G Satellite-Terrestrial Integrated Networks: Current Issues and a Potential Solution. IEEE Communications Magazine, 2025. {{<span class="text-red">(中科院二区, IF=8.2)</span>}}
+4. *Shuyang Li*, Qiang Wu, Ran Wang, et al. Towards Networking and Routing in 6G Satellite-Terrestrial Integrated Networks: Current Issues and a Potential Solution. IEEE Communications Magazine, 2025. {{<span class="text-red">(中科院二区, IF=8.2)</span>}}
 
-5. *Li S*, Wu Q, Wang R. Efficient Packet Routing in Ultra-Dense LEO Satellite Networks via Cooperative-MARL with Queuing Theory Model. In: 2025 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2025: 1-6. {{<span class="text-red">(通信类旗舰会议)</span>}}
+5. *Shuyang Li*, Qiang Wu, Ran Wang. Efficient Packet Routing in Ultra-Dense LEO Satellite Networks via Cooperative-MARL with Queuing Theory Model. In: 2025 IEEE Wireless Communications and Networking Conference (WCNC). IEEE, 2025: 1-6. {{<span class="text-red">(通信类旗舰会议)</span>}}
 
-6. *Li S*, Hu X, Du Y. Deep reinforcement learning and game theory for computation offloading in dynamic edge computing markets. IEEE Access, 2021, 9: 121456-121466. {{<span class="text-red">(Citations: 44)</span>}}
+6. *Shuyang Li*, Xiaohui Hu, Yongwen Du. Deep reinforcement learning and game theory for computation offloading in dynamic edge computing markets. IEEE Access, 2021, 9: 121456-121466. {{<span class="text-red">(Citations: 50)</span>}}
 
-7. *Li S*, Hu X, Du Y. Deep reinforcement learning for computation offloading and resource allocation in unmanned-aerial-vehicle assisted edge computing. Sensors, 2021, 21(19): 6499. {{<span class="text-red">(Citations: 36)</span>}}
+7. *Shuyang Li*, Xiaohui Hu, Yongwen Du. Deep reinforcement learning for computation offloading and resource allocation in unmanned-aerial-vehicle assisted edge computing. Sensors, 2021, 21(19): 6499. {{<span class="text-red">(Citations: 43)</span>}}
 
-8. Li W\*, *Li S\* *, Hao J, et al. Efficient Task Offloading and Resource Allocation in HAPS-Assisted LEO Satellite Networks: A MAPPO with Exact Potential Game Approach. IEEE Internet of Things Journal, 2025. {{<span class="text-red">(中科院一区，IF=8.9)</span>}}
+8. Wanyue Li\*, *Shuyang Li\* *, Jie Hao, et al. Efficient Task Offloading and Resource Allocation in HAPS-Assisted LEO Satellite Networks: A MAPPO with Exact Potential Game Approach. IEEE Internet of Things Journal, 2025. {{<span class="text-red">(中科院一区，IF=8.9)</span>}}
 
-9. Zhang X, Dang J, Wang Y, and *Li S*. MCCI: A multi-channel collaborative interaction framework for multimodal knowledge graph completion. Information Processing & Management, 2025, 62(4): 104156. {{<span class="text-red">(CCF-B, 中科院一区, IF=6.9)</span>}}
+9. Xiquan Zhang, Jianwu Dang, Yangping Wang, and *Shuyang Li*. MCCI: A multi-channel collaborative interaction framework for multimodal knowledge graph completion. Information Processing & Management, 2025, 62(4): 104156. {{<span class="text-red">(CCF-B, 中科院一区, IF=6.9)</span>}}
 
-10. Zhang X, Dang J, Wang Y, and *Li S*. Feature enhancement based on hierarchical reconstruction framework for inductive prediction on sparse graphs. Information Processing & Management, 2025, 62(1): 103894. {{<span class="text-red">(CCF-B, 中科院一区, IF=6.9)</span>}}
+10. Xiquan Zhang, Jianwu Dang, Yangping Wang, and *Shuyang Li*. Feature enhancement based on hierarchical reconstruction framework for inductive prediction on sparse graphs. Information Processing & Management, 2025, 62(1): 103894. {{<span class="text-red">(CCF-B, 中科院一区, IF=6.9)</span>}}
 
-11. Zhang X, Dang J, Wang Y, and *Li S*. Meta-learning framework with updating information flow for enhancing inductive prediction. Knowledge-Based Systems, 2024, 294: 111720. {{<span class="text-red">(中科院一区, IF=7.6)</span>}}
+11. Xiquan Zhang, Jianwu Dang, Yangping Wang, and *Shuyang Li*. Meta-learning framework with updating information flow for enhancing inductive prediction. Knowledge-Based Systems, 2024, 294: 111720. {{<span class="text-red">(中科院一区, IF=7.6)</span>}}
 
-12. Li W, *Li S*, Hao J, et al. Efficient Task Offloading and Resource Allocation in Space-Air-Ground-Sea Networks: A MAPPO-based Approach. International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA). Springer, 2025. {{<span class="text-red">(CCF-C)</span>}}
+12. Wanyue Li, *Shuyang Li*, Jie Hao, et al. Efficient Task Offloading and Resource Allocation in Space-Air-Ground-Sea Networks: A MAPPO-based Approach. International Conference on Wireless Artificial Intelligent Computing Systems and Applications (WASA). Springer, 2025. {{<span class="text-red">(CCF-C)</span>}}
 
-13. Cao S, Wu Q, Wang R, *Li S*. Open Services Availability First-Based Routing and Scheduling Optimization for Wide-Area Deterministic Networks. The IFIP International Conference on Network and Parallel Computing (NPC), 2025. {{<span class="text-red">(CCF-C)</span>}}
+13. Shengnan Cao, Qiang Wu, Ran Wang, *Shuyang Li*. Open Services Availability First-Based Routing and Scheduling Optimization for Wide-Area Deterministic Networks. The IFIP International Conference on Network and Parallel Computing (NPC), 2025. {{<span class="text-red">(CCF-C)</span>}}
 
