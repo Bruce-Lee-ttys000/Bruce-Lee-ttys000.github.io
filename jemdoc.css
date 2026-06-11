@@ -372,4 +372,17 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+    vertical-align: top;
+}
+
+table.imgtable td {
+    padding-top: 0;
+}
+
+table.imgtable td p {
+    margin-top: 0;
+}
+
+table.imgtable img {
+    display: block;
 }
