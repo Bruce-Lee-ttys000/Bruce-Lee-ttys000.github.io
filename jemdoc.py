@@ -429,10 +429,7 @@ def nl(f, withcount=False, codemode=False):
     s = re.sub(r'\s*(?<!\\)#.*', '', s)
 
   if withcount:
-    if s[0] == '.':
-      m = r'\.'
-    else:
-      m = s[0]
+    m = re.escape(s[0])
 
     r = re.match('(%s+) ' % m, s)
     if not r:
@@ -440,12 +437,12 @@ def nl(f, withcount=False, codemode=False):
                 " %d" % f.linenum)
 
     if not codemode:
-      s = s.lstrip('-.=:')
+      s = s.lstrip('-.=:+')
 
     return (s, len(r.group(1)))
   else:
     if not codemode:
-      s = s.lstrip('-.=:')
+      s = s.lstrip('-.=:+')
 
     return s
 
@@ -457,7 +454,7 @@ def np(f, withcount=False, eatblanks=True):
   else:
     s = nl(f)
 
-  while pc(f) not in ('\n', '-', '.', ':', '', '=', '~', '{', '\\(', '\\)'):
+  while pc(f) not in ('\n', '-', '.', '+', ':', '', '=', '~', '{', '\\(', '\\)'):
     s += nl(f)
 
   while eatblanks and pc(f) == '\n':
@@ -1009,11 +1006,11 @@ def geneq(f, eq, dpi, wl, outname):
       print 'eqdepthcache update failed.'
   return (depth, eqname)
 
-def dashlist(f, ordered=False):
+def dashlist(f, ordered=False, marker=None):
   level = 0
 
   if ordered:
-    char = '.'
+    char = marker or '.'
     ul = 'ol'
   else:
     char = '-'
@@ -1358,6 +1355,9 @@ def procfile(f):
 
     elif p == '.':
       dashlist(f, True)
+
+    elif p == '+':
+      dashlist(f, True, '+')
 
     elif p == ':':
       colonlist(f)
