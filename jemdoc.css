@@ -159,6 +159,11 @@ p {
 	line-height: 1.45;
 }
 
+#layout-content p {
+	text-align: justify;
+	text-align-last: left;
+}
+
 pre {
 	padding: 0;
 	margin: 0;
