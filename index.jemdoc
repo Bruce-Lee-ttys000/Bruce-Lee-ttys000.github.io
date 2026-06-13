@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: nofooter
 == Shuyang Li (李舒阳)
 
 ~~~
@@ -19,11 +19,18 @@ Email: shuyang.li@nuaa.edu.cn \n
 Last Update: 2026.03.18
 ~~~
 
+~~~
+{}{raw}
+<div id="profile-menu">
+<a href="index.html" class="current">Home</a> | <a href="publications.html">Detailed Publications</a> | <a href="awards.html">Awards &amp; Honors</a> | <a href="services.html">Professional Services</a>
+</div>
+~~~
+
 
 == Brief Biography
 Shuyang Li is a Ph.D. candidate at the College of Computer Science and Technology, Nanjing University of Aeronautics and Astronautics (NUAA).
-He is supervised by [https://person.zju.edu.cn/0025078 {{<u>Prof. Qiang Wu</u>}}], a National-level High-level Talent, doctoral advisor, and Qiushi Distinguished Professor at Zhejiang University.
-His co-supervisor is [https://faculty.nuaa.edu.cn/wangran/zh_CN/index.htm {{<u>Prof. Ran Wang</u>}}], a doctoral advisor and professor at NUAA.
+He is supervised by [https://person.zju.edu.cn/0025078 {Prof. Qiang Wu}], a National-level High-level Talent, doctoral advisor, and Qiushi Distinguished Professor at Zhejiang University.
+His co-supervisor is [https://faculty.nuaa.edu.cn/wangran/zh_CN/index.htm {Prof. Ran Wang</u>}], a doctoral advisor and professor at NUAA.
 
 
 To date, he has published 13 papers in CCF-recommended journals and conferences as first author, co-first author, or co-author.
@@ -159,4 +166,3 @@ Beijing, China \n
 <br />
 <a href="https://info.flagcounter.com/X8Jo"><img src="https://s01.flagcounter.com/count2/X8Jo/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" /></a>
 ~~~
-

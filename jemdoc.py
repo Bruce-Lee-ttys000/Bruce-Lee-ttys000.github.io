@@ -179,13 +179,11 @@ def standardconf():
   } catch(err) {}</script>
   
   [menustart]
-  <table summary="Table for page layout." id="tlayout">
-  <tr valign="top">
-  <td id="layout-menu">
+  <div id="layout-menu">
   
   [menuend]
-  </td>
-  <td id="layout-content">
+  </div>
+  <div id="layout-content">
   
   [menucategory]
   <div class="menu-category">|</div>
@@ -206,9 +204,7 @@ def standardconf():
   <div id="layout-content">
   
   [menulastbit]
-  </td>
-  </tr>
-  </table>
+  </div>
   
   [nomenulastbit]
   </div>
