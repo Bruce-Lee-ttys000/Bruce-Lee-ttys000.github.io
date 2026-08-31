@@ -34,7 +34,7 @@ His research interests include non-terrestrial networks (NTNs), AI-enabled netwo
 Before that, he received his Ph.D. degree from Nanjing University of Aeronautics and Astronautics (NUAA), under the supervision of Prof. [https://person.zju.edu.cn/0025078 Qiang Wu], Qiushi Distinguished Professor at Zhejiang University, and Prof. [https://faculty.nuaa.edu.cn/wangran/zh_CN/index.htm Ran Wang], Professor at NUAA.
 
 
-To date, he has published 8 papers in CCF-recommended journals and conferences as first author or co-first author.
+To date, he has published 8 papers in CCF-recommended journals and conferences as first author \/ co-first author.
 Among these, 7 are first-author papers, 4 are in the CCF-A\/B recommended list, and 7 are in the Q1 \/ Q2 of journals according to the Chinese Academy of Sciences (CAS) Journal Ranking.
 He attended and delivered an oral presentation at IEEE WCNC 2025 in Milan, Italy, one of the three flagship international conferences in communications alongside IEEE ICC and IEEE GLOBECOM.
 He participated in the 51st International Exhibition of Inventions Geneva (2026) and won the silver medal.
@@ -72,13 +72,9 @@ He also serves as a reviewer for several leading journals in computer networking
 
 
 == Research Interests
-- Satellite Networks
-- Satellite-Terrestrial Integrated Networks
-- Traffic Engineering
-- Edge Computing
-- Deep Reinforcement Learning
-- Multi-Agent Reinforcement Learning
-- Game Theory
+- Non-Terrestrial and Satellite Networks
+- Network Routing and Traffic Engineering
+- AI/ML for Networking
 
 
 == Research Projects
@@ -98,13 +94,16 @@ He also serves as a reviewer for several leading journals in computer networking
 - IEEE Transactions on Vehicular Technology (JCR: Q1)
 - IEEE Transactions on Aerospace and Electronic Systems (JCR: Q1)
 - IEEE Open Journal of the Communications Society (JCR: Q1)
+- Applied Energy (JCR: Q1)
 - Engineering Applications of Artificial Intelligence (JCR: Q1)
 - Knowledge-Based Systems (JCR: Q1)
+- Computers and Electronics in Agriculture (JCR: Q1)
 - Journal of Big Data (JCR: Q1)
 - Future Generation Computer Systems (JCR: Q1)
 - International Journal of Electrical Power & Energy Systems (JCR: Q1)
 - Scientific Reports (JCR: Q1)
-- Array(JCR: Q1)
+- Array (JCR: Q1)
+- Aerospace Science and Technology (JCR: Q1)
 
 
 == Education & Experience
@@ -126,6 +125,8 @@ He also serves as a reviewer for several leading journals in computer networking
 == Personal Interests
 Outside of academia, I enjoy outdoor endurance sports, especially hiking and mountaineering. I am also passionate about photography, particularly portrait photography, and have used both Sony and Canon cameras over the years.
 I’m also a longtime Apple enthusiast and have used a wide range of Apple products over the years, including iPhone, iPad, Mac, Apple Watch, and AirPods. I’m always happy to chat with fellow Apple fans about devices, workflows, and user experiences.
+
+
 == References
 [https://person.zju.edu.cn/0025078 Prof. Qiang Wu] \n
 Doctoral Supervisor, Professor \n
