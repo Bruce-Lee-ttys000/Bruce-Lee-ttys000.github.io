@@ -22,7 +22,7 @@ Last Update: 2026.09.12
 ~~~
 {}{raw}
 <div id="profile-menu">
-<a href="index.html" class="current">Home</a> | <a href="publications.html">Detailed Publications</a> | <a href="awards.html">Awards &amp; Honors</a> | <a href="services.html">Professional Services</a>
+<span class="nav-item"><a href="index.html" class="current">Home</a></span><span class="nav-item"><a href="publications.html">Detailed Publications</a></span><span class="nav-item"><a href="awards.html">Awards &amp; Honors</a></span><span class="nav-item"><a href="services.html">Professional Services</a></span>
 </div>
 ~~~
 

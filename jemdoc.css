@@ -57,6 +57,19 @@ body {
 	border-bottom: 1px gray solid;
 }
 
+/* Keep each navigation label (and its separator) together when wrapping. */
+#profile-menu .nav-item,
+div.menu-item {
+	display: inline-block;
+	white-space: nowrap;
+}
+
+#profile-menu .nav-item + .nav-item::before {
+	content: " | ";
+	color: #527bbd;
+	font-weight: bold;
+}
+
 #layout-content {
 	padding-top: 0.0em;
 	padding-left: 1.0em;
@@ -109,7 +122,6 @@ div.menu-category {
 }
 
 div.menu-item {
-	display: inline;
 	padding-left: 0;
 	text-indent: 0;
 	font-weight: bold;
@@ -444,5 +456,19 @@ table.imgtable img {
 		max-width: 100%;
 		height: auto;
 		margin: 0 auto 1em;
+	}
+}
+
+/* Preserve useful content width on the smallest iPhone viewports (320–375px). */
+@media screen and (max-width: 375px) {
+	#layout-menu,
+	#profile-menu {
+		padding-left: 0.5em;
+		padding-right: 0.5em;
+	}
+
+	#layout-content {
+		padding-left: 0.6em;
+		padding-right: 0.6em;
 	}
 }
