@@ -14,7 +14,8 @@ table#tlayout {
 body {
 	background: white;
 	font-family: "Times New Roman", Times, serif;
-	font-size: 17px;
+	/* Keep text readable on narrow screens while scaling smoothly with the viewport. */
+	font-size: clamp(16px, 1.3vw, 17px);
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -410,5 +411,36 @@ table.imgtable td p {
 }
 
 table.imgtable img {
-    display: block;
+	display: block;
+}
+
+/* Let the layout reflow cleanly on phones and during viewport resizing. */
+@media screen and (max-width: 600px) {
+	#layout-menu,
+	#profile-menu {
+		white-space: normal;
+		line-height: 1.8;
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+
+	#layout-content {
+		padding-left: 0.8em;
+		padding-right: 0.8em;
+	}
+
+	table.imgtable,
+	table.imgtable tbody,
+	table.imgtable tr,
+	table.imgtable td {
+		display: block;
+		width: 100%;
+		box-sizing: border-box;
+	}
+
+	table.imgtable img {
+		max-width: 100%;
+		height: auto;
+		margin: 0 auto 1em;
+	}
 }
